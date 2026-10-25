@@ -84,6 +84,12 @@ font:14px/1.45 system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;color:
   }
 
   function render(root, d, view) {
+    // ocultar partidos ya terminados (empezaron hace más de 2 horas)
+    var now = Date.now();
+    d.upcoming = d.upcoming.filter(function (u) {
+      var k = Date.parse(u.date + "T" + (/^\d{1,2}:\d{2}$/.test(u.time) ? ("0" + u.time).slice(-5) : "12:00") + ":00Z");
+      return isNaN(k) || k > now - 2 * 3600 * 1000;
+    });
     var leagues = {}; d.upcoming.forEach(function (u) { leagues[u.lg] = u; });
     var opts = Object.keys(leagues).sort(function (a, b) { return leagues[a].league.localeCompare(leagues[b].league); })
       .map(function (k) { return '<option value="' + esc(k) + '">' + esc(leagues[k].league) + '</option>'; }).join("");
