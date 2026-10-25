@@ -1,0 +1,32 @@
+name: Actualizar pronósticos
+
+on:
+  schedule:
+    - cron: "17 5 * * *"    # cada día ~07:17 hora de Madrid
+    - cron: "17 13 * * *"   # y ~15:17 (las cuotas del finde salen viernes)
+  workflow_dispatch: {}      # botón "Run workflow" para lanzarlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Calcular Elo y pronósticos
+        run: python predict.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "pronosticos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json history.json
+          git diff --cached --quiet || git commit -m "Pronósticos $(date -u +'%Y-%m-%d %H:%M')"
+          git push
