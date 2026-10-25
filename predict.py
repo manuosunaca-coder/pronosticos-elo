@@ -288,7 +288,7 @@ def confidence(edge, prob, sel="1", odds=2.0):
     """Confianza 1-10 a partir del valor (edge) y de lo probable que es el pronóstico."""
     if edge <= 0:
         return max(1, min(4, int(4 + edge * 20)))
-    c = 5 + edge / 0.04
+    c = 5 + edge / 0.03
     if prob < 0.30:
         c -= 1.5
     elif prob > 0.55:
