@@ -48,6 +48,10 @@ font:14px/1.45 system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;color:
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function flag(c) { return '<img loading="lazy" alt="" src="https://flagcdn.com/w40/' + esc(c) + '.png">'; }
   function tr(v) { return v > 0 ? ' <span class="pfe-up" title="En forma">↑</span>' : v < 0 ? ' <span class="pfe-dn" title="Mala racha">↓</span>' : ""; }
+  function hm(t) { // football-data da la hora del Reino Unido; España es siempre +1
+    var m = /^(\d{1,2}):(\d{2})/.exec(t || ""); if (!m) return "–";
+    var h = (+m[1] + 1) % 24; return (h < 10 ? "0" : "") + h + ":" + m[2];
+  }
   function sign(n) { return (n > 0 ? "+" : "") + n; }
   function fmtDay(d) {
     var dt = new Date(d + "T12:00:00");
@@ -125,14 +129,14 @@ font:14px/1.45 system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;color:
       });
       var t = body.querySelector(".pfe-t");
       if (!rows.length) { t.innerHTML = '<div class="pfe-empty">No hay partidos con esos filtros.</div>'; return; }
-      var h = '<table><thead><tr><th>Hora</th><th class="pfe-hm">Liga</th><th>Partido</th><th>1</th><th>X</th><th>2</th><th class="pfe-hm">Prob.</th><th class="pfe-hm">Valor</th><th>Conf.</th></tr></thead><tbody>', last = "";
+      var h = '<table><thead><tr><th title="Hora peninsular española">Hora</th><th class="pfe-hm">Liga</th><th>Partido</th><th>1</th><th>X</th><th>2</th><th class="pfe-hm">Prob.</th><th class="pfe-hm">Valor</th><th>Conf.</th></tr></thead><tbody>', last = "";
       rows.forEach(function (u) {
         if (u.date !== last) { last = u.date; h += '<tr class="pfe-day"><td colspan="9">' + fmtDay(u.date) + '</td></tr>'; }
         var hn = esc(u.home), an = esc(u.away);
         if (u.pick === "1") hn = "<b>" + hn + "</b>"; if (u.pick === "2") an = "<b>" + an + "</b>";
         var oc = function (i, s) { return '<td><span class="pfe-o' + (u.pick === s ? " on" : "") + '">' + u.odds[i].toFixed(2) + '</span></td>'; };
         h += '<tr class="' + (u.conf >= 8 ? "pfe-sure" : "") + '" title="Elo ' + u.home + ': ' + u.elo_h + ' · Elo ' + u.away + ': ' + u.elo_a + ' · Prob. 1/X/2: ' + u.prob.join(" / ") + '%">' +
-          '<td>' + esc(u.time || "–") + '</td><td class="pfe-hm"><span class="pfe-lg">' + flag(u.flag) + esc(u.league) + '</span></td>' +
+          '<td>' + esc(hm(u.time)) + '</td><td class="pfe-hm"><span class="pfe-lg">' + flag(u.flag) + esc(u.league) + '</span></td>' +
           '<td class="pfe-m">' + hn + tr(u.tr_h) + ' – ' + an + tr(u.tr_a) + (u.pick === "X" ? ' <b>(empate)</b>' : "") + '</td>' +
           oc(0, "1") + oc(1, "X") + oc(2, "2") +
           '<td class="pfe-hm">' + u.pick_prob + '%</td><td class="pfe-hm ' + (u.edge > 0 ? "pfe-pos" : "pfe-neg") + '">' + sign(u.edge) + '%</td>' +
