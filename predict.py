@@ -59,7 +59,7 @@ START_BY_TIER = {1: 1550.0, 2: 1450.0, 3: 1380.0, 4: 1330.0, 5: 1280.0}
 SEASONS_BACK = 3
 MIN_ODDS, MAX_ODDS = 1.30, 6.00
 HISTORY_KEEP = 2000
-MODEL_W = 0.55  # peso del Elo frente a la probabilidad implícita del mercado
+MODEL_W = 0.45  # peso del Elo frente a la probabilidad implícita del mercado
 
 
 # ---------------------------------------------------------------- utilidades
@@ -284,7 +284,7 @@ class Calibrator:
         return cnt["H"] / s, cnt["D"] / s, cnt["A"] / s
 
 
-def confidence(edge, prob):
+def confidence(edge, prob, sel="1", odds=2.0):
     """Confianza 1-10 a partir del valor (edge) y de lo probable que es el pronóstico."""
     if edge <= 0:
         return max(1, min(4, int(4 + edge * 20)))
@@ -293,6 +293,10 @@ def confidence(edge, prob):
         c -= 1.5
     elif prob > 0.55:
         c += 0.5
+    if sel == "X":  # el empate es lo más difícil de acertar
+        c -= 1.5
+    if odds > 4.0:  # cuotas altas: más varianza
+        c -= 1.0
     return max(5, min(10, int(round(c))))
 
 
@@ -381,7 +385,7 @@ def main():
         if not cands:
             continue
         edge, sel, p, o = max(cands)
-        conf = confidence(edge, p)
+        conf = confidence(edge, p, sel, o)
         lname, flag = league_info(lg)
         item = {
             "key": key_of(lg, fx["date"].isoformat(), h, a),
