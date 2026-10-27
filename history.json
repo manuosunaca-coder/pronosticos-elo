@@ -109,7 +109,11 @@
 "pick_prob": 76.8,
 "edge": 1.3,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "2-1",
+"result": "1",
+"win": true,
+"profit": 0.34
 },
 {
 "key": "D2|2026-10-25|Osnabruck|Greuther Furth",
@@ -125,7 +129,11 @@
 "pick_prob": 48.1,
 "edge": 2.9,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "3-0",
+"result": "1",
+"win": true,
+"profit": 1.19
 },
 {
 "key": "I1|2026-10-25|Genoa|Venezia",
@@ -141,7 +149,11 @@
 "pick_prob": 31.2,
 "edge": 6.3,
 "conf": 7,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "DNK|2026-10-25|Midtjylland|Lyngby",
@@ -173,7 +185,11 @@
 "pick_prob": 23.6,
 "edge": 8.6,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E0|2026-10-25|Liverpool|Brighton",
@@ -189,7 +205,11 @@
 "pick_prob": 29.1,
 "edge": 9.5,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "2-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "FIN|2026-10-25|HJK|KuPS",
@@ -253,7 +273,11 @@
 "pick_prob": 30.2,
 "edge": 10.5,
 "conf": 7,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "3-1",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "P1|2026-10-25|Estoril|Moreirense",
@@ -269,7 +293,11 @@
 "pick_prob": 30.2,
 "edge": 8.2,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "1-3",
+"result": "2",
+"win": true,
+"profit": 2.7
 },
 {
 "key": "F1|2026-10-25|Angers|Lorient",
@@ -285,7 +313,11 @@
 "pick_prob": 42.3,
 "edge": 2.4,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "0-0",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SWE|2026-10-25|Mjallby|Hammarby",
@@ -349,7 +381,11 @@
 "pick_prob": 26.9,
 "edge": 9.6,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "2-1",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "ROU|2026-10-25|CFR Cluj|Dinamo Bucuresti",
@@ -381,7 +417,11 @@
 "pick_prob": 77.0,
 "edge": 0.2,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "5-2",
+"result": "1",
+"win": true,
+"profit": 0.3
 },
 {
 "key": "NOR|2026-10-25|Molde|Fredrikstad",
@@ -413,7 +453,11 @@
 "pick_prob": 22.3,
 "edge": 11.8,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "0-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP1|2026-10-25|Barcelona|Real Madrid",
@@ -429,7 +473,11 @@
 "pick_prob": 23.1,
 "edge": 15.9,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "ARG|2026-10-26|Central Cordoba|Velez Sarsfield",
@@ -477,7 +525,11 @@
 "pick_prob": 24.5,
 "edge": 18.4,
 "conf": 7,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "2-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP2|2026-10-26|Andorra|Burgos",
@@ -493,7 +545,11 @@
 "pick_prob": 32.6,
 "edge": 16.0,
 "conf": 10,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "2-3",
+"result": "2",
+"win": true,
+"profit": 2.78
 },
 {
 "key": "F2|2026-10-26|Boulogne|Reims",
@@ -509,6 +565,10 @@
 "pick_prob": 47.3,
 "edge": 3.9,
 "conf": 6,
-"created": "2026-10-25T13:54+00:00"
+"created": "2026-10-25T13:54+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 }
 ]
