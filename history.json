@@ -985,7 +985,11 @@
 "pick_prob": 61.8,
 "edge": 2.2,
 "conf": 6,
-"created": "2026-10-27T13:59+00:00"
+"created": "2026-10-27T13:59+00:00",
+"score": "5-1",
+"result": "1",
+"win": true,
+"profit": 0.66
 },
 {
 "key": "SWE|2026-10-29|Kalmar|GAIS",
@@ -1017,7 +1021,11 @@
 "pick_prob": 35.9,
 "edge": 7.9,
 "conf": 8,
-"created": "2026-10-27T13:59+00:00"
+"created": "2026-10-27T13:59+00:00",
+"score": "2-2",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "BRA|2026-10-29|Vasco|Flamengo RJ",
@@ -1047,7 +1055,7 @@
 "pick": "2",
 "pick_odds": 4.59,
 "pick_prob": 27.6,
-"edge": 25.9,
+"edge": 27.3,
 "conf": 10,
 "created": "2026-10-27T13:59+00:00"
 }
