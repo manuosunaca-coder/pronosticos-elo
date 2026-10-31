@@ -1183,7 +1183,7 @@
 "pick": "1",
 "pick_odds": 2.43,
 "pick_prob": 44.8,
-"edge": 9.0,
+"edge": 9.1,
 "conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1199,7 +1199,7 @@
 "pick": "1",
 "pick_odds": 1.97,
 "pick_prob": 55.1,
-"edge": 8.6,
+"edge": 8.7,
 "conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1231,7 +1231,7 @@
 "pick": "2",
 "pick_odds": 3.08,
 "pick_prob": 34.2,
-"edge": 5.4,
+"edge": 4.7,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1247,7 +1247,7 @@
 "pick": "1",
 "pick_odds": 2.8,
 "pick_prob": 36.6,
-"edge": 2.4,
+"edge": 3.0,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1263,7 +1263,7 @@
 "pick": "1",
 "pick_odds": 3.27,
 "pick_prob": 36.1,
-"edge": 18.0,
+"edge": 18.8,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1279,7 +1279,7 @@
 "pick": "2",
 "pick_odds": 4.77,
 "pick_prob": 26.9,
-"edge": 28.2,
+"edge": 27.1,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1311,7 +1311,7 @@
 "pick": "1",
 "pick_odds": 2.86,
 "pick_prob": 35.5,
-"edge": 1.6,
+"edge": 1.8,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1359,8 +1359,8 @@
 "pick": "2",
 "pick_odds": 3.32,
 "pick_prob": 32.4,
-"edge": 7.5,
-"conf": 7,
+"edge": 7.9,
+"conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
 {
@@ -1375,7 +1375,7 @@
 "pick": "1",
 "pick_odds": 3.05,
 "pick_prob": 39.0,
-"edge": 18.9,
+"edge": 19.3,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1391,7 +1391,7 @@
 "pick": "2",
 "pick_odds": 3.77,
 "pick_prob": 31.0,
-"edge": 16.9,
+"edge": 16.7,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1423,7 +1423,7 @@
 "pick": "1",
 "pick_odds": 4.61,
 "pick_prob": 26.8,
-"edge": 23.6,
+"edge": 24.0,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1439,7 +1439,7 @@
 "pick": "2",
 "pick_odds": 4.49,
 "pick_prob": 26.7,
-"edge": 19.8,
+"edge": 19.4,
 "conf": 9,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1455,8 +1455,8 @@
 "pick": "1",
 "pick_odds": 2.82,
 "pick_prob": 38.1,
-"edge": 7.5,
-"conf": 8,
+"edge": 7.1,
+"conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
 {
@@ -1471,7 +1471,7 @@
 "pick": "1",
 "pick_odds": 2.28,
 "pick_prob": 47.7,
-"edge": 8.9,
+"edge": 9.0,
 "conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1487,7 +1487,7 @@
 "pick": "2",
 "pick_odds": 3.3,
 "pick_prob": 32.1,
-"edge": 6.1,
+"edge": 5.8,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1519,7 +1519,7 @@
 "pick": "2",
 "pick_odds": 3.94,
 "pick_prob": 27.9,
-"edge": 9.8,
+"edge": 10.0,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1535,7 +1535,7 @@
 "pick": "1",
 "pick_odds": 3.87,
 "pick_prob": 28.8,
-"edge": 11.6,
+"edge": 11.3,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1551,7 +1551,7 @@
 "pick": "1",
 "pick_odds": 1.8,
 "pick_prob": 56.8,
-"edge": 2.2,
+"edge": 2.1,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1567,7 +1567,7 @@
 "pick": "1",
 "pick_odds": 2.1,
 "pick_prob": 49.6,
-"edge": 4.1,
+"edge": 3.9,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1599,7 +1599,7 @@
 "pick": "2",
 "pick_odds": 2.78,
 "pick_prob": 37.1,
-"edge": 3.0,
+"edge": 2.4,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1615,7 +1615,7 @@
 "pick": "2",
 "pick_odds": 3.38,
 "pick_prob": 30.6,
-"edge": 3.3,
+"edge": 3.5,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1631,7 +1631,7 @@
 "pick": "1",
 "pick_odds": 2.77,
 "pick_prob": 41.8,
-"edge": 15.7,
+"edge": 15.5,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1663,7 +1663,7 @@
 "pick": "2",
 "pick_odds": 5.5,
 "pick_prob": 22.4,
-"edge": 23.1,
+"edge": 23.5,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1695,9 +1695,25 @@
 "pick": "1",
 "pick_odds": 2.81,
 "pick_prob": 37.9,
-"edge": 6.5,
+"edge": 6.1,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
+},
+{
+"key": "USA|2026-10-31|Los Angeles Galaxy|Austin FC",
+"date": "2026-10-31",
+"time": "21:00",
+"lg": "USA",
+"league": "MLS",
+"flag": "us",
+"home": "Los Angeles Galaxy",
+"away": "Austin FC",
+"pick": "2",
+"pick_odds": 5.34,
+"pick_prob": 20.4,
+"edge": 9.0,
+"conf": 6,
+"created": "2026-10-31T05:48+00:00"
 },
 {
 "key": "MEX|2026-11-01|Monterrey|Club Tijuana",
@@ -1711,7 +1727,7 @@
 "pick": "2",
 "pick_odds": 5.08,
 "pick_prob": 24.6,
-"edge": 25.0,
+"edge": 23.5,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1743,7 +1759,7 @@
 "pick": "1",
 "pick_odds": 2.98,
 "pick_prob": 37.7,
-"edge": 12.5,
+"edge": 12.3,
 "conf": 9,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1759,8 +1775,8 @@
 "pick": "1",
 "pick_odds": 2.35,
 "pick_prob": 44.6,
-"edge": 4.7,
-"conf": 7,
+"edge": 4.3,
+"conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
 {
@@ -1775,7 +1791,7 @@
 "pick": "1",
 "pick_odds": 1.72,
 "pick_prob": 58.3,
-"edge": 0.3,
+"edge": 0.4,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1791,7 +1807,7 @@
 "pick": "2",
 "pick_odds": 3.38,
 "pick_prob": 31.7,
-"edge": 7.2,
+"edge": 6.9,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1807,7 +1823,7 @@
 "pick": "2",
 "pick_odds": 3.03,
 "pick_prob": 34.1,
-"edge": 3.4,
+"edge": 4.1,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1823,7 +1839,7 @@
 "pick": "1",
 "pick_odds": 3.09,
 "pick_prob": 36.3,
-"edge": 12.3,
+"edge": 12.8,
 "conf": 9,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1839,7 +1855,7 @@
 "pick": "2",
 "pick_odds": 2.95,
 "pick_prob": 34.9,
-"edge": 3.0,
+"edge": 2.7,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1919,7 +1935,7 @@
 "pick": "2",
 "pick_odds": 2.79,
 "pick_prob": 38.7,
-"edge": 8.0,
+"edge": 7.6,
 "conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1951,7 +1967,7 @@
 "pick": "1",
 "pick_odds": 3.17,
 "pick_prob": 33.4,
-"edge": 5.9,
+"edge": 6.2,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1967,7 +1983,7 @@
 "pick": "1",
 "pick_odds": 4.04,
 "pick_prob": 28.3,
-"edge": 14.2,
+"edge": 14.8,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1983,7 +1999,7 @@
 "pick": "1",
 "pick_odds": 1.9,
 "pick_prob": 55.8,
-"edge": 6.1,
+"edge": 6.2,
 "conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -1999,7 +2015,7 @@
 "pick": "1",
 "pick_odds": 2.23,
 "pick_prob": 47.0,
-"edge": 4.9,
+"edge": 4.7,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2031,7 +2047,7 @@
 "pick": "2",
 "pick_odds": 3.18,
 "pick_prob": 32.7,
-"edge": 4.0,
+"edge": 4.5,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2047,7 +2063,7 @@
 "pick": "1",
 "pick_odds": 1.46,
 "pick_prob": 68.5,
-"edge": 0.0,
+"edge": 0.1,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2079,7 +2095,7 @@
 "pick": "1",
 "pick_odds": 1.63,
 "pick_prob": 62.1,
-"edge": 1.2,
+"edge": 1.4,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2095,7 +2111,7 @@
 "pick": "1",
 "pick_odds": 2.78,
 "pick_prob": 38.0,
-"edge": 5.6,
+"edge": 5.0,
 "conf": 7,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2127,8 +2143,8 @@
 "pick": "1",
 "pick_odds": 2.46,
 "pick_prob": 43.6,
-"edge": 7.2,
-"conf": 7,
+"edge": 7.7,
+"conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
 {
@@ -2143,8 +2159,8 @@
 "pick": "1",
 "pick_odds": 2.44,
 "pick_prob": 44.0,
-"edge": 7.4,
-"conf": 7,
+"edge": 8.2,
+"conf": 8,
 "created": "2026-10-30T14:09+00:00"
 },
 {
@@ -2159,7 +2175,7 @@
 "pick": "1",
 "pick_odds": 2.8,
 "pick_prob": 40.9,
-"edge": 14.5,
+"edge": 14.3,
 "conf": 10,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2175,7 +2191,7 @@
 "pick": "2",
 "pick_odds": 5.21,
 "pick_prob": 21.3,
-"edge": 10.9,
+"edge": 11.3,
 "conf": 6,
 "created": "2026-10-30T14:09+00:00"
 },
@@ -2191,7 +2207,7 @@
 "pick": "2",
 "pick_odds": 2.52,
 "pick_prob": 42.9,
-"edge": 8.0,
+"edge": 8.2,
 "conf": 8,
 "created": "2026-10-30T14:09+00:00"
 }
