@@ -2627,8 +2627,8 @@
 "pick": "2",
 "pick_odds": 5.14,
 "pick_prob": 21.5,
-"edge": 10.6,
-"conf": 6,
+"edge": 12.5,
+"conf": 7,
 "created": "2026-11-03T14:24+00:00"
 },
 {
@@ -2643,8 +2643,8 @@
 "pick": "1",
 "pick_odds": 3.36,
 "pick_prob": 33.9,
-"edge": 14.0,
-"conf": 10,
+"edge": 12.5,
+"conf": 9,
 "created": "2026-11-03T14:24+00:00"
 }
 ]
