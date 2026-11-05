@@ -2533,7 +2533,11 @@
 "pick_prob": 41.9,
 "edge": 13.0,
 "conf": 9,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-03|Blackburn|Stoke",
@@ -2549,7 +2553,11 @@
 "pick_prob": 40.4,
 "edge": 4.9,
 "conf": 7,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-03|Derby|Norwich",
@@ -2565,7 +2573,11 @@
 "pick_prob": 31.7,
 "edge": 7.2,
 "conf": 7,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "0-4",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-03|Charlton|Bolton",
@@ -2581,7 +2593,11 @@
 "pick_prob": 34.6,
 "edge": 3.3,
 "conf": 6,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": true,
+"profit": 1.99
 },
 {
 "key": "E3|2026-11-03|Northampton|Oldham",
@@ -2597,7 +2613,11 @@
 "pick_prob": 34.3,
 "edge": 2.9,
 "conf": 6,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": true,
+"profit": 2.0
 },
 {
 "key": "E1|2026-11-03|West Brom|Southampton",
@@ -2613,7 +2633,11 @@
 "pick_prob": 40.1,
 "edge": 7.2,
 "conf": 7,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "BRA|2026-11-04|Internacional|Coritiba",
@@ -2645,6 +2669,10 @@
 "pick_prob": 33.9,
 "edge": 12.5,
 "conf": 9,
-"created": "2026-11-03T14:24+00:00"
+"created": "2026-11-03T14:24+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 }
 ]
