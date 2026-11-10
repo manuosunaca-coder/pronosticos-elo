@@ -2813,7 +2813,11 @@
 "pick_prob": 43.3,
 "edge": 12.2,
 "conf": 9,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "BRA|2026-11-06|Vitoria|Fluminense",
@@ -2829,7 +2833,11 @@
 "pick_prob": 40.7,
 "edge": 1.7,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "0-3",
+"result": "2",
+"win": true,
+"profit": 1.5
 },
 {
 "key": "MEX|2026-11-07|Necaxa|Club Tijuana",
@@ -2845,7 +2853,11 @@
 "pick_prob": 43.0,
 "edge": 13.5,
 "conf": 9,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "JPN|2026-11-07|Nagoya Grampus|Kyoto",
@@ -2861,7 +2873,11 @@
 "pick_prob": 30.7,
 "edge": 17.1,
 "conf": 10,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": true,
+"profit": 2.78
 },
 {
 "key": "JPN|2026-11-07|Yokohama F. Marinos|Okayama",
@@ -2877,7 +2893,11 @@
 "pick_prob": 47.8,
 "edge": 17.1,
 "conf": 10,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "JPN|2026-11-07|FC Tokyo|Kashima Antlers",
@@ -2893,7 +2913,11 @@
 "pick_prob": 31.9,
 "edge": 3.8,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "2-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "JPN|2026-11-07|Avispa Fukuoka|V-Varen Nagasaki",
@@ -2909,7 +2933,11 @@
 "pick_prob": 31.9,
 "edge": 4.6,
 "conf": 7,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "JPN|2026-11-07|Kashiwa Reysol|Kawasaki Frontale",
@@ -2925,7 +2953,11 @@
 "pick_prob": 49.0,
 "edge": 4.9,
 "conf": 7,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "2-1",
+"result": "1",
+"win": true,
+"profit": 1.14
 },
 {
 "key": "E0|2026-11-07|Leeds|Tottenham",
@@ -3237,7 +3269,11 @@
 "pick_prob": 38.6,
 "edge": 2.6,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "2-1",
+"result": "1",
+"win": true,
+"profit": 1.67
 },
 {
 "key": "I2|2026-11-07|Mantova|Verona",
@@ -3313,7 +3349,11 @@
 "pick_prob": 33.4,
 "edge": 5.1,
 "conf": 7,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "F2|2026-11-07|Pau FC|Nantes",
@@ -3349,7 +3389,11 @@
 "pick_prob": 35.7,
 "edge": 5.5,
 "conf": 7,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "3-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "B1|2026-11-07|Antwerp|Lommel SK",
@@ -3425,7 +3469,11 @@
 "pick_prob": 47.1,
 "edge": 3.7,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": true,
+"profit": 1.2
 },
 {
 "key": "USA|2026-11-08|Austin FC|Portland Timbers",
@@ -3441,7 +3489,11 @@
 "pick_prob": 28.0,
 "edge": 18.3,
 "conf": 9,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "USA|2026-11-08|FC Dallas|Colorado Rapids",
@@ -3457,7 +3509,11 @@
 "pick_prob": 49.3,
 "edge": 2.1,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "3-1",
+"result": "1",
+"win": true,
+"profit": 1.06
 },
 {
 "key": "MEX|2026-11-08|Tigres UANL|Cruz Azul",
@@ -3473,7 +3529,11 @@
 "pick_prob": 46.7,
 "edge": 3.7,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "2-3",
+"result": "2",
+"win": true,
+"profit": 1.22
 },
 {
 "key": "CHN|2026-11-08|Qingdao Hainiu|Shenzhen Xinpengcheng",
@@ -3489,7 +3549,11 @@
 "pick_prob": 24.6,
 "edge": 23.7,
 "conf": 10,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "2-2",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "B1|2026-11-08|Club Brugge|Anderlecht",
@@ -3545,7 +3609,11 @@
 "pick_prob": 32.0,
 "edge": 20.1,
 "conf": 10,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "AUT|2026-11-08|Hartberg|Altach",
@@ -3561,7 +3629,11 @@
 "pick_prob": 45.9,
 "edge": 10.6,
 "conf": 9,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "3-0",
+"result": "1",
+"win": true,
+"profit": 1.41
 },
 {
 "key": "E0|2026-11-08|Crystal Palace|Liverpool",
@@ -3637,7 +3709,11 @@
 "pick_prob": 49.4,
 "edge": 9.7,
 "conf": 8,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SWE|2026-11-08|AIK|Hacken",
@@ -3653,7 +3729,11 @@
 "pick_prob": 28.7,
 "edge": 9.7,
 "conf": 7,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "3-2",
+"result": "1",
+"win": true,
+"profit": 2.84
 },
 {
 "key": "N1|2026-11-08|AZ Alkmaar|Groningen",
@@ -3689,7 +3769,11 @@
 "pick_prob": 35.4,
 "edge": 2.4,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "3-4",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "NOR|2026-11-08|HamKam|Sarpsborg 08",
@@ -3705,7 +3789,11 @@
 "pick_prob": 35.4,
 "edge": 3.1,
 "conf": 6,
-"created": "2026-11-06T14:24+00:00"
+"created": "2026-11-06T14:24+00:00",
+"score": "3-0",
+"result": "1",
+"win": true,
+"profit": 1.91
 },
 {
 "key": "F1|2026-11-08|Le Havre|Lorient",
