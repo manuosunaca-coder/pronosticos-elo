@@ -3905,7 +3905,11 @@
 "pick_prob": 40.2,
 "edge": 17.8,
 "conf": 10,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "3-1",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP2|2026-11-14|Valladolid|Castellon",
@@ -3921,7 +3925,11 @@
 "pick_prob": 46.7,
 "edge": 2.4,
 "conf": 6,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": true,
+"profit": 1.19
 },
 {
 "key": "E2|2026-11-14|Sheffield Weds|Plymouth",
@@ -3937,7 +3945,11 @@
 "pick_prob": 42.0,
 "edge": 18.0,
 "conf": 10,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "3-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-14|Salford|Northampton",
@@ -3953,7 +3965,11 @@
 "pick_prob": 67.4,
 "edge": 7.2,
 "conf": 8,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-14|Swindon|Grimsby",
@@ -3969,7 +3985,11 @@
 "pick_prob": 32.5,
 "edge": 4.6,
 "conf": 7,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "1-4",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SC1|2026-11-14|Stenhousemuir|Queens Park",
@@ -3985,7 +4005,11 @@
 "pick_prob": 57.6,
 "edge": 3.1,
 "conf": 7,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "2-0",
+"result": "1",
+"win": true,
+"profit": 0.79
 },
 {
 "key": "SC2|2026-11-14|Hamilton|Ross County",
@@ -4001,7 +4025,11 @@
 "pick_prob": 29.4,
 "edge": 12.7,
 "conf": 8,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP2|2026-11-15|Granada|Las Palmas",
@@ -4017,7 +4045,11 @@
 "pick_prob": 26.8,
 "edge": 10.6,
 "conf": 6,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP2|2026-11-16|Albacete|Celta B",
