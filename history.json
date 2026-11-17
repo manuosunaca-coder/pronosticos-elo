@@ -4065,6 +4065,10 @@
 "pick_prob": 24.0,
 "edge": 12.0,
 "conf": 6,
-"created": "2026-11-13T14:24+00:00"
+"created": "2026-11-13T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 }
 ]
