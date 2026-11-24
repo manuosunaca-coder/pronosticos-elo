@@ -4177,7 +4177,11 @@
 "pick_prob": 33.3,
 "edge": 6.6,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "3-1",
+"result": "1",
+"win": true,
+"profit": 2.2
 },
 {
 "key": "DNK|2026-11-20|Aarhus|Lyngby",
@@ -4209,7 +4213,11 @@
 "pick_prob": 49.7,
 "edge": 2.4,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "4-2",
+"result": "1",
+"win": true,
+"profit": 1.06
 },
 {
 "key": "POL|2026-11-20|Pogon Szczecin|Slask Wroclaw",
@@ -4241,7 +4249,11 @@
 "pick_prob": 31.8,
 "edge": 6.4,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "F1|2026-11-20|Troyes|Le Havre",
@@ -4257,7 +4269,11 @@
 "pick_prob": 49.3,
 "edge": 7.4,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "3-1",
+"result": "1",
+"win": true,
+"profit": 1.18
 },
 {
 "key": "E2|2026-11-20|Barnsley|Sheffield Weds",
@@ -4273,7 +4289,11 @@
 "pick_prob": 36.3,
 "edge": 9.5,
 "conf": 8,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "MEX|2026-11-21|Puebla|Atl. San Luis",
@@ -4385,7 +4405,11 @@
 "pick_prob": 45.7,
 "edge": 3.2,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": true,
+"profit": 1.26
 },
 {
 "key": "D2|2026-11-21|Nurnberg|Braunschweig",
@@ -4401,7 +4425,11 @@
 "pick_prob": 60.5,
 "edge": 1.1,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-21|Millwall|QPR",
@@ -4417,7 +4445,11 @@
 "pick_prob": 41.3,
 "edge": 4.5,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-21|Newport County|Swindon",
@@ -4433,7 +4465,11 @@
 "pick_prob": 29.0,
 "edge": 11.1,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "NOR|2026-11-21|Tromso|Viking",
@@ -4513,7 +4549,11 @@
 "pick_prob": 21.9,
 "edge": 10.6,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "D1|2026-11-21|Elversberg|Freiburg",
@@ -4529,7 +4569,11 @@
 "pick_prob": 32.3,
 "edge": 10.0,
 "conf": 8,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-21|Northampton|Rochdale",
@@ -4545,7 +4589,11 @@
 "pick_prob": 32.1,
 "edge": 37.8,
 "conf": 10,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "3-2",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "EC|2026-11-21|Kidderminster|Fylde",
@@ -4561,7 +4609,11 @@
 "pick_prob": 35.6,
 "edge": 15.5,
 "conf": 10,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-2",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E0|2026-11-21|Tottenham|Ipswich",
@@ -4577,7 +4629,11 @@
 "pick_prob": 21.6,
 "edge": 18.8,
 "conf": 9,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E0|2026-11-21|Coventry|Crystal Palace",
@@ -4593,7 +4649,11 @@
 "pick_prob": 44.8,
 "edge": 8.3,
 "conf": 8,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "3-2",
+"result": "1",
+"win": true,
+"profit": 1.42
 },
 {
 "key": "E3|2026-11-21|Barnet|Port Vale",
@@ -4609,7 +4669,11 @@
 "pick_prob": 51.9,
 "edge": 8.0,
 "conf": 8,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-1",
+"result": "1",
+"win": true,
+"profit": 1.08
 },
 {
 "key": "E2|2026-11-21|Oxford|Wycombe",
@@ -4625,7 +4689,11 @@
 "pick_prob": 45.5,
 "edge": 5.7,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "4-3",
+"result": "1",
+"win": true,
+"profit": 1.32
 },
 {
 "key": "E2|2026-11-21|Plymouth|Peterboro",
@@ -4641,7 +4709,11 @@
 "pick_prob": 58.5,
 "edge": 3.6,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-21|Oldham|Exeter",
@@ -4657,7 +4729,11 @@
 "pick_prob": 30.7,
 "edge": 6.8,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-21|Lincoln|Wrexham",
@@ -4673,7 +4749,11 @@
 "pick_prob": 37.2,
 "edge": 2.6,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-21|Swansea|West Brom",
@@ -4689,7 +4769,11 @@
 "pick_prob": 40.2,
 "edge": 1.6,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-2",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-21|Cheltenham|Bristol Rvs",
@@ -4705,7 +4789,11 @@
 "pick_prob": 37.5,
 "edge": 2.7,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-3",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-21|Tranmere|Colchester",
@@ -4721,7 +4809,11 @@
 "pick_prob": 33.9,
 "edge": 3.6,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-1",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SC0|2026-11-21|Kilmarnock|Aberdeen",
@@ -4737,7 +4829,11 @@
 "pick_prob": 39.7,
 "edge": 4.0,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-4",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SC1|2026-11-21|Queens Park|Livingston",
@@ -4753,7 +4849,11 @@
 "pick_prob": 19.9,
 "edge": 10.6,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-4",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SC2|2026-11-21|Queen of Sth|Hamilton",
@@ -4769,7 +4869,11 @@
 "pick_prob": 23.4,
 "edge": 9.2,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-3",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "ROU|2026-11-21|CFR Cluj|Otelul",
@@ -4833,7 +4937,11 @@
 "pick_prob": 46.2,
 "edge": 8.0,
 "conf": 8,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "I2|2026-11-21|Empoli|Pisa",
@@ -4849,7 +4957,11 @@
 "pick_prob": 30.6,
 "edge": 14.4,
 "conf": 10,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "F2|2026-11-21|Reims|St Etienne",
@@ -4865,7 +4977,11 @@
 "pick_prob": 35.1,
 "edge": 11.7,
 "conf": 9,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "POL|2026-11-21|Radomiak Radom|Wisla",
@@ -4913,7 +5029,11 @@
 "pick_prob": 45.3,
 "edge": 2.0,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "ARG|2026-11-21|Argentinos Jrs|Independiente",
@@ -4993,7 +5113,11 @@
 "pick_prob": 28.5,
 "edge": 7.0,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-2",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "DNK|2026-11-22|Horsens|Silkeborg",
@@ -5025,7 +5149,11 @@
 "pick_prob": 38.2,
 "edge": 5.1,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "G1|2026-11-22|Levadeiakos|Atromitos",
@@ -5041,7 +5169,11 @@
 "pick_prob": 41.9,
 "edge": 2.3,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "G1|2026-11-22|Panetolikos|Volos NFC",
@@ -5057,7 +5189,11 @@
 "pick_prob": 45.5,
 "edge": 3.8,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": true,
+"profit": 1.28
 },
 {
 "key": "DNK|2026-11-22|Sonderjyske|Odense",
@@ -5089,7 +5225,11 @@
 "pick_prob": 33.2,
 "edge": 5.8,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "3-2",
+"result": "1",
+"win": true,
+"profit": 2.17
 },
 {
 "key": "SP2|2026-11-22|Sp Gijon|Las Palmas",
@@ -5105,7 +5245,11 @@
 "pick_prob": 32.3,
 "edge": 5.8,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-2",
+"result": "2",
+"win": true,
+"profit": 2.28
 },
 {
 "key": "SWZ|2026-11-22|Lausanne|Vaduz",
@@ -5153,7 +5297,11 @@
 "pick_prob": 24.3,
 "edge": 11.0,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-1",
+"result": "2",
+"win": true,
+"profit": 3.56
 },
 {
 "key": "SP2|2026-11-22|Celta B|Valladolid",
@@ -5169,7 +5317,11 @@
 "pick_prob": 38.6,
 "edge": 26.5,
 "conf": 10,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP1|2026-11-22|Osasuna|Malaga",
@@ -5185,7 +5337,11 @@
 "pick_prob": 25.9,
 "edge": 13.3,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "B1|2026-11-22|Lommel SK|Standard",
@@ -5201,7 +5357,11 @@
 "pick_prob": 39.3,
 "edge": 22.5,
 "conf": 10,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "SP1|2026-11-22|Getafe|Ath Madrid",
@@ -5217,7 +5377,11 @@
 "pick_prob": 18.6,
 "edge": 9.1,
 "conf": 6,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "0-3",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "USA|2026-11-22|Chicago Fire|Charlotte",
@@ -5281,7 +5445,11 @@
 "pick_prob": 54.7,
 "edge": 5.0,
 "conf": 7,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "2-3",
+"result": "2",
+"win": true,
+"profit": 0.92
 },
 {
 "key": "I1|2026-11-23|Monza|Fiorentina",
@@ -5297,7 +5465,11 @@
 "pick_prob": 31.1,
 "edge": 11.4,
 "conf": 9,
-"created": "2026-11-20T14:24+00:00"
+"created": "2026-11-20T14:24+00:00",
+"score": "3-0",
+"result": "1",
+"win": true,
+"profit": 2.56
 },
 {
 "key": "ARG|2026-11-23|Gimnasia L.P.|Newells Old Boys",
