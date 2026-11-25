@@ -5851,7 +5851,7 @@
 "pick": "1",
 "pick_odds": 3.13,
 "pick_prob": 37.4,
-"edge": 17.0,
+"edge": 16.6,
 "conf": 10,
 "created": "2026-11-24T14:28+00:00"
 },
@@ -5867,7 +5867,7 @@
 "pick": "1",
 "pick_odds": 2.86,
 "pick_prob": 38.2,
-"edge": 9.3,
+"edge": 9.5,
 "conf": 8,
 "created": "2026-11-24T14:28+00:00"
 },
@@ -5899,7 +5899,7 @@
 "pick": "1",
 "pick_odds": 2.79,
 "pick_prob": 38.3,
-"edge": 7.0,
+"edge": 6.1,
 "conf": 7,
 "created": "2026-11-24T14:28+00:00"
 },
@@ -5915,8 +5915,8 @@
 "pick": "2",
 "pick_odds": 2.92,
 "pick_prob": 35.9,
-"edge": 4.9,
-"conf": 7,
+"edge": 3.0,
+"conf": 6,
 "created": "2026-11-24T14:28+00:00"
 },
 {
@@ -5931,7 +5931,7 @@
 "pick": "2",
 "pick_odds": 2.47,
 "pick_prob": 44.0,
-"edge": 8.7,
+"edge": 8.5,
 "conf": 8,
 "created": "2026-11-24T14:28+00:00"
 },
@@ -5947,7 +5947,7 @@
 "pick": "1",
 "pick_odds": 2.33,
 "pick_prob": 45.1,
-"edge": 5.0,
+"edge": 5.2,
 "conf": 7,
 "created": "2026-11-24T14:28+00:00"
 }
