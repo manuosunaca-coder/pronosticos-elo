@@ -5645,7 +5645,11 @@
 "pick_prob": 36.3,
 "edge": 13.7,
 "conf": 10,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "I2|2026-11-24|Virtus Entella|Verona",
@@ -5661,7 +5665,11 @@
 "pick_prob": 33.9,
 "edge": 9.5,
 "conf": 8,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "2-1",
+"result": "1",
+"win": true,
+"profit": 2.23
 },
 {
 "key": "E2|2026-11-24|Stevenage|Sheffield Weds",
@@ -5677,7 +5685,11 @@
 "pick_prob": 44.2,
 "edge": 15.9,
 "conf": 10,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "0-0",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-24|Portsmouth|West Ham",
@@ -5693,7 +5705,11 @@
 "pick_prob": 29.4,
 "edge": 16.6,
 "conf": 9,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-0",
+"result": "1",
+"win": true,
+"profit": 2.96
 },
 {
 "key": "E2|2026-11-24|Blackpool|Leicester",
@@ -5709,7 +5725,11 @@
 "pick_prob": 28.8,
 "edge": 19.7,
 "conf": 9,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E2|2026-11-24|Bromley|Wycombe",
@@ -5725,7 +5745,11 @@
 "pick_prob": 29.4,
 "edge": 17.1,
 "conf": 9,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-24|Bristol City|Wrexham",
@@ -5741,7 +5765,11 @@
 "pick_prob": 37.7,
 "edge": 9.3,
 "conf": 8,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-24|Charlton|Lincoln",
@@ -5757,7 +5785,11 @@
 "pick_prob": 40.3,
 "edge": 5.1,
 "conf": 7,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "4-0",
+"result": "1",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-24|Crawley Town|Barnet",
@@ -5773,7 +5805,11 @@
 "pick_prob": 56.6,
 "edge": 4.2,
 "conf": 7,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "0-0",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E3|2026-11-24|Port Vale|Northampton",
@@ -5789,7 +5825,11 @@
 "pick_prob": 49.8,
 "edge": 3.1,
 "conf": 6,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "EC|2026-11-24|Boston Utd|Barrow",
@@ -5805,7 +5845,11 @@
 "pick_prob": 36.4,
 "edge": 1.6,
 "conf": 6,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "0-1",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "EC|2026-11-24|Fylde|Halifax",
@@ -5821,7 +5865,11 @@
 "pick_prob": 31.4,
 "edge": 2.5,
 "conf": 6,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "0-2",
+"result": "2",
+"win": true,
+"profit": 2.26
 },
 {
 "key": "BRA|2026-11-24|Chapecoense-SC|Palmeiras",
@@ -5901,7 +5949,11 @@
 "pick_prob": 38.3,
 "edge": 6.1,
 "conf": 7,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-2",
+"result": "2",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "I2|2026-11-25|Pisa|Modena",
@@ -5917,7 +5969,11 @@
 "pick_prob": 35.9,
 "edge": 3.0,
 "conf": 6,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "1-1",
+"result": "X",
+"win": false,
+"profit": -1.0
 },
 {
 "key": "E1|2026-11-25|Burnley|Birmingham",
@@ -5933,7 +5989,11 @@
 "pick_prob": 44.0,
 "edge": 8.5,
 "conf": 8,
-"created": "2026-11-24T14:28+00:00"
+"created": "2026-11-24T14:28+00:00",
+"score": "0-2",
+"result": "2",
+"win": true,
+"profit": 1.47
 },
 {
 "key": "BRA|2026-11-25|Atletico-MG|Corinthians",
